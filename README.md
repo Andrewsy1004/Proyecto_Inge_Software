@@ -19,11 +19,11 @@ App de Notas Personales es una aplicación poderosa e intuitiva diseñada para a
 
 La app está construida usando las siguientes tecnologías:
 
-- ![React](https://skillicons.dev/icons?i=react) **React:** Una biblioteca de JavaScript para construir interfaces de usuario.
-- ![JavaScript](https://skillicons.dev/icons?i=js) **JavaScript:** El lenguaje de programación utilizado para el desarrollo front-end y back-end.
-- ![Redux](https://skillicons.dev/icons?i=redux) **Redux:** Un contenedor de estado predecible para aplicaciones JavaScript.
-- ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js:** Un entorno de ejecución para JavaScript construido sobre el motor JavaScript V8 de Chrome.
-- ![Firebase](https://skillicons.dev/icons?i=firebase) **Firebase:** Una plataforma desarrollada por Google para crear aplicaciones móviles y web.
+-  **React:** Una biblioteca de JavaScript para construir interfaces de usuario.
+- **JavaScript:** El lenguaje de programación utilizado para el desarrollo front-end y back-end.
+-  **Redux:** Un contenedor de estado predecible para aplicaciones JavaScript.
+- **Node.js:** Un entorno de ejecución para JavaScript construido sobre el motor JavaScript V8 de Chrome.
+-  **Firebase:** Una plataforma desarrollada por Google para crear aplicaciones móviles y web.
 
 ## Características 🌟
 
@@ -37,12 +37,23 @@ Para obtener una copia local en funcionamiento, sigue estos simples pasos.
 
 ### Prerrequisitos 📋
 
-- ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js
-- ![npm](https://skillicons.dev/icons?i=npm) npm (Node Package Manager)
+-  Node.js
+-  npm (Node Package Manager)
 
 ### Instalación 🔧
 
-1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/yourusername/personal-notes-app.git
-   
+### Cómo Ejecutar la Aplicación 🚀
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/Andrewsy1004/Proyecto_Inge_Software.git
+
+# Iniciar Backend
+cd Backend
+npm install
+npm run dev
+
+# Iniciar Frontend
+cd journal-app
+npm install
+npm run start
