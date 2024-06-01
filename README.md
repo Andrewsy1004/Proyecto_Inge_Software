@@ -40,7 +40,6 @@ Para obtener una copia local en funcionamiento, sigue estos simples pasos.
 -  Node.js
 -  npm (Node Package Manager)
 
-### Instalación 🔧
 
 ### Cómo Ejecutar la Aplicación 🚀
 
