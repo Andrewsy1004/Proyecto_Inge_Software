@@ -3,7 +3,7 @@
 export const fileUpload = async( file ) => {
     if ( !file ) throw new Error('No tenemos ningúna archivo a subir');
 
-    const cloudUrl = 'https://api.cloudinary.com/v1_1/dpiggzbeo/upload';
+    const cloudUrl = '';
 
     const formData = new FormData();
     formData.append('upload_preset','reactJournal');
