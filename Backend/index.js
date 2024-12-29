@@ -9,8 +9,8 @@
 // const transporter = nodemailer.createTransport({
 //     service: "gmail",
 //     auth: {
-//         user: "andro.snake18@gmail.com",
-//         pass: "jtuk csvn rwpr zbef",
+//         user: "",
+//         pass: "",
 //     },
 // });
 
@@ -64,8 +64,8 @@
 // const transporter = nodemailer.createTransport({
 //     service: "gmail",
 //     auth: {
-//         user: "andro.snake18@gmail.com",
-//         pass: "jtuk csvn rwpr zbef",
+//         user: "",
+//         pass: "",
 //     },
 // });
 
@@ -136,8 +136,8 @@ const reportData = {
 const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-        user: "andro.snake18@gmail.com",
-        pass: "jtuk csvn rwpr zbef",
+        user: "",
+        pass: "",
     },
 });
 
